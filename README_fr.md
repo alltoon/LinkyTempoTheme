@@ -5,7 +5,6 @@
 Un thème léger conçu spécifiquement pour le **Tableau de bord Énergie** de Home Assistant. Il remplace les couleurs par défaut du graphique par le code couleur officiel de l'offre **EDF Tempo** (Bleu, Blanc, Rouge).
 
 ![Aperçu du Dashboard](https://github.com/alltoon/LinkyTempoTheme/raw/main/preview.png)
-*(Image d'illustration - Ajoutez une capture d'écran nommée preview.png dans votre dépôt)*
 
 ## Ce que fait ce thème
 
