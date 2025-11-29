@@ -1,0 +1,22 @@
+linky_tempo:
+  # Thème spécial pour le Dashboard Énergie Linky Tempo
+  # Utilise les couleurs officielles (Bleu/Blanc/Rouge)
+
+  modes:
+    light:
+      # Palette Énergie (Ordre d'ajout des sources)
+      graph-color-1: "#1E88E5" # 1. Bleu (HC)
+      graph-color-2: "#90CAF9" # 2. Bleu (HP)
+      graph-color-3: "#9E9E9E" # 3. Blanc/Gris (HC)
+      graph-color-4: "#E0E0E0" # 4. Blanc/Gris (HP)
+      graph-color-5: "#D32F2F" # 5. Rouge (HC)
+      graph-color-6: "#EF5350" # 6. Rouge (HP)
+
+    dark:
+      # Version Sombre
+      graph-color-1: "#1565C0"
+      graph-color-2: "#42A5F5"
+      graph-color-3: "#757575"
+      graph-color-4: "#BDBDBD"
+      graph-color-5: "#C62828"
+      graph-color-6: "#E53935"
