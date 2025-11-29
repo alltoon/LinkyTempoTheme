@@ -6,7 +6,6 @@
 A lightweight theme designed specifically for the Home Assistant **Energy Dashboard**. It replaces the default graph colors with the official color code of the **EDF Tempo** offer (Blue, White, Red).
 
 ![Dashboard Preview](https://github.com/alltoon/LinkyTempoTheme/raw/main/preview.png)
-*(Illustration image - Add a screenshot named preview.png to your repository)*
 
 ## What this theme does
 
